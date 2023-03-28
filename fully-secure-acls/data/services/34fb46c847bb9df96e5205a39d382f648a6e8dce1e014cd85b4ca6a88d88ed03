@@ -1,0 +1,1 @@
+{"Token":"5ac6351e-8796-4c14-ca98-4230ec48f5c0","Service":{"ID":"redis","Service":"redis","Tags":null,"Address":"","Meta":null,"Port":80,"Weights":{"Passing":1,"Warning":1},"EnableTagOverride":false,"Proxy":{"Mode":"","MeshGateway":{},"Expose":{}},"Connect":{},"PeerName":"","CreateIndex":0,"ModifyIndex":0},"Source":"remote"}

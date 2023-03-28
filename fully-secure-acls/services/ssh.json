@@ -1,0 +1,13 @@
+{
+  "ID": "ssh",
+  "Name": "ssh",
+  "Tags": ["primary", "v1"],
+  "Address": "127.0.0.1",
+  "Port": 22,
+  "Check": {
+    "DeregisterCriticalServiceAfter": "90m",
+    "TCP": "localhost:22",
+    "Interval": "10s",
+    "Timeout": "5s"
+  }
+}
